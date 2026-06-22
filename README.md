@@ -264,4 +264,4 @@ human-activity-recognition-cnn-lstm/
 
 ## Author
 
-Navjot Singh
+Sandeep Yadav
