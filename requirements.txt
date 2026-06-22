@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+shap
+keras-tuner
+requests
+joblib
+h5py
